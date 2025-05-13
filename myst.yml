@@ -1,0 +1,15 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: 3c2e0886-7a24-48f2-a977-1183f545b61f
+  # title:
+  # description:
+  # keywords: []
+  # authors: []
+  github: https://github.com/FourthTime/FourthTimeBook
+  # To autogenerate a Table of Contents, run "jupyter book init --write-toc"
+site:
+  template: book-theme
+  # options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
